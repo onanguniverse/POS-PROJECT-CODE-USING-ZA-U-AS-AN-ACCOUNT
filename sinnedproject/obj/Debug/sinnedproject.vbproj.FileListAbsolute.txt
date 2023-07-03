@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\bin\Debug\sinnedproject.exe.config
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\bin\Debug\sinnedproject.exe
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\bin\Debug\sinnedproject.pdb
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\bin\Debug\sinnedproject.xml
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\obj\Debug\sinnedproject.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\obj\Debug\sinnedproject.Form2.resources
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\obj\Debug\sinnedproject.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\obj\Debug\sinnedproject.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\obj\Debug\sinnedproject.exe
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\obj\Debug\sinnedproject.xml
+c:\users\user\documents\visual studio 2012\Projects\sinnedproject\sinnedproject\obj\Debug\sinnedproject.pdb
